@@ -38,18 +38,3 @@ Lalu buka:
 ```text
 http://localhost:8000
 ```
-
-## Push ke GitHub
-
-Folder ini belum menjadi git repository. Setelah kamu siap, jalankan:
-
-```bash
-git init
-git add .
-git commit -m "Initial company profile site"
-git branch -M main
-git remote add origin <URL_REPO_GITHUB>
-git push -u origin main
-```
-
-Kalau kamu mau, aku juga bisa bantu siapkan file tambahan seperti `CNAME`, `favicon`, atau versi yang lebih siap deploy ke GitHub Pages.
