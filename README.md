@@ -1,63 +1,23 @@
 # AG Property
 
-Landing page company profile untuk AG Property, dibuat dengan tampilan bersih, modern, dan fokus ke identitas properti di Sleman.
+Project ini adalah landing page company profile untuk AG Property, sebuah website sederhana untuk menampilkan identitas, layanan, dan informasi kontak properti di Sleman.
 
-> Hunian berkualitas, investasi tepat, dan informasi perusahaan yang rapi dalam satu halaman.
+Tampilan dibuat bersih dan profesional, dengan fokus pada hero section, layanan unggulan, bagian about, alasan memilih AG Property, kontak perusahaan, serta peta lokasi.
 
-## Preview
+## Isi Project
 
-Halaman ini berisi:
-
-- Hero section dengan visual properti yang kuat
-- Layanan unggulan dengan ikon dari folder `assets`
+- Hero section dengan visual properti utama
+- Layanan unggulan menggunakan ikon dari folder `assets`
 - Section About, Visi, dan Misi
-- Alasan memilih AG Property
-- Kontak perusahaan dan peta lokasi Google Maps
-- Footer dengan navigasi tambahan
+- Section alasan memilih AG Property
+- Kontak perusahaan dengan nomor telepon, email, dan Google Maps
+- Footer informasi tambahan
 
-## Tech Stack
-
-- HTML5
-- CSS3
-- Google Fonts
-- Google Maps embed
-
-## Getting Started
-
-### 1. Buka secara langsung
-
-Buka file `index.html` di browser untuk melihat hasilnya.
-
-### 2. Jalankan via local server
-
-Kalau ingin lebih nyaman saat testing, jalankan server lokal:
-
-```bash
-python -m http.server 8000
-```
-
-Lalu buka:
-
-```text
-http://localhost:8000
-```
-HEAD
-=======
-
-## Project Structure
+## Struktur Singkat
 
 ```text
 ag-property/
 ├── assets/
 ├── index.html
-├── styles.css
-└── README.md
+└── styles.css
 ```
-
-## Deployment
-
-## Catatan
-
-- Ikon layanan menggunakan file gambar dari folder `assets`
-- Kontak dan alamat sudah disesuaikan untuk AG Property
-- Layout dibuat responsif untuk desktop dan mobile
