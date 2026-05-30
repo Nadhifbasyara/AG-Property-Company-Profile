@@ -2,8 +2,6 @@
 
 Project ini adalah landing page company profile untuk AG Property, sebuah website sederhana untuk menampilkan identitas, layanan, dan informasi kontak properti di Sleman.
 
-Tampilan dibuat bersih dan profesional, dengan fokus pada hero section, layanan unggulan, bagian about, alasan memilih AG Property, kontak perusahaan, serta peta lokasi.
-
 ## Isi Project
 
 - Hero section dengan visual properti utama
@@ -21,3 +19,9 @@ ag-property/
 ├── index.html
 └── styles.css
 ```
+
+## Deployment
+
+- Untuk deploy cepat: GitHub Pages (workflow GitHub Actions sudah ditambahkan ke repository).
+- Setelah push ke `main`, Actions akan membangun dan menerbitkan situs ke Pages secara otomatis.
+
