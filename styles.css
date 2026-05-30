@@ -134,7 +134,7 @@ a {
   align-items: center;
   background:
     linear-gradient(90deg, rgba(10, 27, 52, 0.92) 0%, rgba(10, 27, 52, 0.78) 34%, rgba(10, 27, 52, 0.28) 100%),
-    url("assets/gambar%202.png") center/cover no-repeat;
+    url("assets/gambar2.png") center/cover no-repeat;
   color: #fff;
 }
 
